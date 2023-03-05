@@ -34,8 +34,8 @@ consistentes, reduzindo sensivelmente, construções melódicas com aparência a
 resultados sem sentido musical, nessas composições.
 
 As regras da música são implementadas por funções, que estruturam e limitam os
-comportamentos das melodias geradas, fornecendo saı́das de recompensas, para o apren-
-dizado por reforço. Nesse trabalho vamos interferir nessas funções da teoria da música,
+comportamentos das melodias geradas, fornecendo saı́das de recompensas, para o aprendizado 
+por reforço. Nesse trabalho vamos interferir nessas funções da teoria da música,
 alterar seus parâmetros e hiper parâmetros, seus pesos de saı́da e combinar funções.
 Executar testes com o propósito de demonstrar a possibilidade de se incorporar
 minimamente, de forma intencional, aspectos de sentido emocional nessas melodias feitas
@@ -44,5 +44,5 @@ por máquinas.
 Fazer uso desse mecanismo como ferramenta de inserção de sentimentos especı́ficos
 nas melodias geradas.
 
-Verificar possı́veis influências de sentimentos nos resultados melódicos, para de-
-monstrar a possibilidade, do uso dessas modificações, como ferramentas para esse propósito.
+Verificar possı́veis influências de sentimentos nos resultados melódicos, para demonstrar  
+a possibilidade, do uso dessas modificações, como ferramentas para esse propósito.
